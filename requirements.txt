@@ -27,3 +27,4 @@ youtube_transcript_api
 pytube
 unstructured
 numexpr
+duckduckgo-search
