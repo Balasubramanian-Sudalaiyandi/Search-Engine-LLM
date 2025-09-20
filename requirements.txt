@@ -14,7 +14,7 @@ faiss-cpu
 langchain-chroma
 streamlit
 langchain_groq
-fastapi
+fastap
 uvicorn
 langserve
 sse_starlette
@@ -29,4 +29,6 @@ unstructured
 numexpr
 duckduckgo-search
 langchain-community
+duckduckgo-search==5.3.1
+
 
